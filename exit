@@ -1,0 +1,107 @@
+commit 2eb25d75773900089a3c2fb2756842434303ac5c
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sun Mar 2 08:08:57 2014 -0500
+
+    analytics
+
+commit 5df31ea2d1df6cdc6ceb67057792a37a2d20cb4d
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sun Mar 2 07:19:50 2014 -0500
+
+    assets compiled for Heroku
+
+commit 25864c6acd645897888bf35f46daa539d8600943
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sun Mar 2 07:06:22 2014 -0500
+
+    gem for Heroku
+
+commit 939a2d5075eafb16d22238fbf1cfca3286c2f7dc
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sun Mar 2 07:00:13 2014 -0500
+
+    mailing list
+
+commit a07057898874a6ba8686308993fac7bb37cc0ab1
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sun Mar 2 06:53:50 2014 -0500
+
+    sending mail
+
+commit a673321310a8333f8f01c3876ea316210527f014
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sat Mar 1 19:29:37 2014 -0500
+
+    save data to a spreadsheet
+
+commit 727429b0681fea45e71aa6f2257651a650bc09b4
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sat Mar 1 18:19:11 2014 -0500
+
+    contact form
+
+commit eb3834d796857b69c0328a2a6aa1efe5ced834bd
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sat Mar 1 18:02:02 2014 -0500
+
+    add 'about' and 'contact' pages
+
+commit b96df8db8272e89549e1ee7a79d1b469c555d493
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sat Mar 1 17:55:31 2014 -0500
+
+    front-end framework
+
+commit b43faa38b3ed0b82e8f73af90f8244963b8c1284
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sat Mar 1 17:05:34 2014 -0500
+
+    update application layout
+
+commit bc9449b118167ef5fcd1eb69b7a3b6c75e2d446d
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Wed Feb 19 20:52:30 2014 -0500
+
+    dynamic home page
+
+commit a6c659bf36096caaade0c8999532357a35e2dcbb
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Wed Feb 19 20:25:33 2014 -0500
+
+    remove sensitive info
+
+commit 7de1550eb727f665385def0e2fe3a25c1b550c41
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Wed Feb 19 06:29:37 2014 -0500
+
+    hide sensitive data
+
+commit 9491c05403684a1fec490a16fd4845a25c65717c
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Wed Feb 19 06:18:50 2014 -0500
+
+    add configuration
+
+commit 0ae4c0b74fc17472c549618baa869adc8a7e7eab
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Tue Feb 18 06:33:21 2014 -0500
+
+    add configuration
+
+commit aca0cda8d747d1c8c0afcc9fa2b717991c6ca66f
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Mon Feb 17 21:27:58 2014 -0500
+
+    add gems
+
+commit 641c4178de8af62758d82a3b4a91a0dbe2e8a0d0
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sun Feb 16 22:21:36 2014 -0500
+
+    update README
+
+commit 7171c179db62177522dcbcceba3d1ebfef7c50b9
+Author: Trevor Kurschner <trevor.kurschner@gmail.com>
+Date:   Sun Feb 16 22:11:16 2014 -0500
+
+    Initial commit
